@@ -1,0 +1,38 @@
+{
+  "Entrances": [
+    {
+      "id": "f31f5650-6c90-4e0a-b932-50d22989e5ca",
+      "plateNo": "4545",
+      "floor": "medium",
+      "hour": 7,
+      "date": "4/18/2022, 7:57:38 AM "
+    },
+    {
+      "id": "9c442d93-0ab3-4078-aaa0-deaac043854a",
+      "plateNo": "3453",
+      "floor": "small",
+      "hour": 7,
+      "date": "4/18/2022, 7:57:45 AM "
+    },
+    {
+      "id": "c9fb2701-d8d6-4a78-a1b7-fb5940e87503",
+      "plateNo": "324567",
+      "floor": "medium",
+      "hour": "",
+      "date": ""
+    },
+    {
+      "id": "50b12f02-2c77-4339-9510-22a38a02f952",
+      "plateNo": "2234",
+      "floor": "small",
+      "hour": "",
+      "date": ""
+    }
+  ],
+  "Exited": [
+    {
+      "id": 1
+    }
+  ],
+  "ParkingSlots": []
+}

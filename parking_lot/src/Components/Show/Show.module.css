@@ -1,0 +1,21 @@
+.container{
+
+    border:1px solid  rgb(240, 238, 238);
+    width:90%;
+    height:250px;
+    overflow:scroll;
+    margin: auto;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    padding: 10px;
+    border-radius: 10px;
+
+}
+.container > div{ 
+    border:1px solid rgb(102, 255, 0);
+    display:flex;
+    gap:20px;
+    margin-top: 5px;
+    padding:10px;
+    justify-content: space-evenly;
+
+}

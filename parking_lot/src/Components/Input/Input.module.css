@@ -1,0 +1,58 @@
+.widget_search_input{
+    display: flex;
+    align-items: center;
+    background-color:  skyblue;
+    padding: 10px;
+    margin: auto;
+    border: 1px solid var(--twitter-background);
+    border-radius: 20px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    margin-bottom: 8px;
+    width:250px;
+    margin-top: 10px;
+}
+
+.widget_search_input:focus-within{
+    background-color:  skyblue;
+}
+
+.widget_search_input > input{
+    border: none;
+    background-color:  skyblue;
+    outline: none;
+    font-size: 15px !important;
+    font-weight: 400;
+}
+
+
+.widget_search_input > input:focus{
+    border: none;
+    background-color:  skyblue;
+}
+
+.widget_search_icon{
+    color: gray;
+    padding-right: 10px;
+}
+.search {
+    width:240px;
+    height:30px;
+    border-radius: 10px;
+    border:none;
+    outline: none;
+
+}
+.selectOpt {
+    width:240px;
+    height:30px;
+    border-radius: 10px;
+    border:none;
+}
+.Btn {
+    width:150px;
+    padding:10px;
+    background-color: rgb(59, 59, 247);
+    border:none;
+    border-radius: 10px;
+    color:white;
+}

@@ -1,0 +1,34 @@
+.widget_search_input{
+    display: flex;
+    align-items: center;
+    background-color:  skyblue;
+    padding: 10px;
+    border: 1px solid var(--twitter-background);
+    border-radius: 20px;
+    margin-left: 70%;
+    margin-bottom: 8px;
+    width:250px;
+}
+
+.widget_search_input:focus-within{
+    background-color:  skyblue;
+}
+
+.widget_search_input > input{
+    border: none;
+    background-color:  skyblue;
+    outline: none;
+    font-size: 15px !important;
+    font-weight: 400;
+}
+
+
+.widget_search_input > input:focus{
+    border: none;
+    background-color:  skyblue;
+}
+
+.widget_search_icon{
+    color: gray;
+    padding-right: 10px;
+}
